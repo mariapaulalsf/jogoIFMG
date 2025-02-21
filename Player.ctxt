@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=nome\ currentRoom
+comment1.target=Player(java.lang.String,\ Room)
+comment2.params=item
+comment2.target=void\ pegar(Item)
+comment3.params=itemName
+comment3.target=Item\ getPesquisa(java.lang.String)
+comment4.params=item
+comment4.target=void\ soltar(Item)
+comment5.params=
+comment5.target=Room\ getCurrentRoom()
+comment6.params=room
+comment6.target=void\ setCurrentRoom(Room)
+comment7.params=
+comment7.target=java.lang.String\ getNome()
+comment8.params=
+comment8.target=java.lang.String\ listInventory()
+numComments=9
