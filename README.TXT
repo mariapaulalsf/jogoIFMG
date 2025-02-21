@@ -1,27 +1,3 @@
-Project: zuul-bad
-Authors: Michael Kölling and David J. Barnes
+Esse é um jogo em que o jogador é um aluno que está determinado em criar uma atlética para sua faculdade. Para isso será preciso coletar assinaturas de seus colegas e também de um professor, após isso deverá deixar o documento na secretaria. Durante esse processo o jogador irá recolher os itens precisos e usando eles até conseguir evoluir os papeis no documento necessário.
 
-This project is part of the material for the book
-
-   Objects First with Java - A Practical Introduction using BlueJ
-   Sixth edition
-   David J. Barnes and Michael Kölling
-   Pearson Education, 2016
-
-This project is a simple framework for an adventure game. In this version,
-it has a few rooms and the ability for a player to walk between these rooms.
-That's all.
-
-To start this application, create an instance of class "Game" and call its
-"play" method.
-
-This version of the game contains some very bad class design. It should NOT
-be used as a basis for extending the project without fixing these design
-problems. It serves as an example to discuss good and bad design (chapter 8
-of the book).
-
-Chapter 8 of the book contains a detailed description of the problems in this
-project, and how to fix them.
-
-The project 'zuul-better' contains a version of this project with better
-designed class structure. It includes the fixes discussed in the book.
+A faculdade é composta do seu exterior, cantina, biblioteca, térreo, secretaria, corredor, primeiro andar, segundo andar e as salas de aula.
